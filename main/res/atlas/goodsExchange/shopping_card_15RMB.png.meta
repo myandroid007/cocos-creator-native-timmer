@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "5301698a-cf1c-45cd-bdda-ae048e666066",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "shopping_card_15RMB": {
+      "ver": "1.0.3",
+      "uuid": "9d8a38ed-dc33-4af3-a1c4-d98a677f35e5",
+      "rawTextureUuid": "5301698a-cf1c-45cd-bdda-ae048e666066",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 5,
+      "offsetY": 2,
+      "trimX": 11,
+      "trimY": 0,
+      "width": 114,
+      "height": 95,
+      "rawWidth": 126,
+      "rawHeight": 99,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

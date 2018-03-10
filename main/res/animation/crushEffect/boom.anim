@@ -1,0 +1,55 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "boom",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 0.2,
+  "sample": 30,
+  "speed": 0.5,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "d19ef997-86f6-4973-8f11-41225c314fb3"
+            }
+          },
+          {
+            "frame": 0.03333333333333333,
+            "value": {
+              "__uuid__": "6b5ee9e4-ba3d-4785-a53b-34c3daa43aca"
+            }
+          },
+          {
+            "frame": 0.06666666666666667,
+            "value": {
+              "__uuid__": "b4a5ca79-b74f-4005-ae43-f49591ad5d05"
+            }
+          },
+          {
+            "frame": 0.1,
+            "value": {
+              "__uuid__": "991d7929-db4d-430a-8cc1-439fed111247"
+            }
+          },
+          {
+            "frame": 0.13333333333333333,
+            "value": {
+              "__uuid__": "23eb1058-00c8-49f2-93c1-42905c15152e"
+            }
+          },
+          {
+            "frame": 0.16666666666666666,
+            "value": {
+              "__uuid__": "390d4db6-ca8c-4223-ba89-deddd68533ae"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

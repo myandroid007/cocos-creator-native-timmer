@@ -1,0 +1,189 @@
+[
+  {
+    "__type__": "cc.Prefab",
+    "_name": "",
+    "_objFlags": 0,
+    "_rawFiles": null,
+    "data": {
+      "__id__": 1
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "boom",
+    "_objFlags": 0,
+    "_parent": null,
+    "_children": [],
+    "_tag": -1,
+    "_active": true,
+    "_components": [
+      {
+        "__id__": 2
+      },
+      {
+        "__id__": 3
+      }
+    ],
+    "_prefab": {
+      "__id__": 4
+    },
+    "_id": "",
+    "_opacity": 255,
+    "_color": {
+      "__type__": "cc.Color",
+      "r": 255,
+      "g": 255,
+      "b": 255,
+      "a": 255
+    },
+    "_cascadeOpacityEnabled": true,
+    "_anchorPoint": {
+      "__type__": "cc.Vec2",
+      "x": 0.5,
+      "y": 0.5
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 0,
+      "height": 0
+    },
+    "_rotationX": 0,
+    "_rotationY": 0,
+    "_scaleX": 1,
+    "_scaleY": 1,
+    "_position": {
+      "__type__": "cc.Vec2",
+      "x": 0,
+      "y": 0
+    },
+    "_skewX": 0,
+    "_skewY": 0,
+    "_localZOrder": 0,
+    "_globalZOrder": 0,
+    "_opacityModifyRGB": false,
+    "groupIndex": 0
+  },
+  {
+    "__type__": "cc.ParticleSystem",
+    "_name": "",
+    "_objFlags": 0,
+    "node": {
+      "__id__": 1
+    },
+    "_enabled": true,
+    "_custom": true,
+    "_file": {
+      "__uuid__": "5c869ed0-cf3c-4a72-a003-375da4d82a36"
+    },
+    "_texture": {
+      "__uuid__": "290c4268-0fa1-40c9-ab81-d9f617932de3"
+    },
+    "_srcBlendFactor": 770,
+    "_dstBlendFactor": 771,
+    "playOnLoad": true,
+    "_autoRemoveOnFinish": false,
+    "_totalParticles": 100,
+    "_duration": 0.1,
+    "_emissionRate": 100,
+    "_life": 0.1,
+    "_lifeVar": 0.5,
+    "_startColor": {
+      "__type__": "cc.Color",
+      "r": 245,
+      "g": 54,
+      "b": 7,
+      "a": 255
+    },
+    "_startColorVar": {
+      "__type__": "cc.Color",
+      "r": 126,
+      "g": 235,
+      "b": 8,
+      "a": 25
+    },
+    "_endColor": {
+      "__type__": "cc.Color",
+      "r": 247,
+      "g": 208,
+      "b": 5,
+      "a": 255
+    },
+    "_endColorVar": {
+      "__type__": "cc.Color",
+      "r": 70,
+      "g": 228,
+      "b": 20,
+      "a": 0
+    },
+    "_angle": 180,
+    "_angleVar": 180,
+    "_startSize": 0,
+    "_startSizeVar": 0,
+    "_endSize": 20,
+    "_endSizeVar": 0,
+    "_startSpin": -940,
+    "_startSpinVar": 214,
+    "_endSpin": 0,
+    "_endSpinVar": 0,
+    "_sourcePos": {
+      "__type__": "cc.Vec2",
+      "x": 0,
+      "y": 0
+    },
+    "_posVar": {
+      "__type__": "cc.Vec2",
+      "x": 90,
+      "y": 90
+    },
+    "_positionType": 0,
+    "_emitterMode": 1,
+    "_gravity": {
+      "__type__": "cc.Vec2",
+      "x": -80,
+      "y": -1200
+    },
+    "_speed": 721,
+    "_speedVar": 5,
+    "_tangentialAccel": 0,
+    "_tangentialAccelVar": 0,
+    "_radialAccel": 0,
+    "_radialAccelVar": 0,
+    "_rotationIsDir": false,
+    "_startRadius": 30,
+    "_startRadiusVar": 0,
+    "_endRadius": 30,
+    "_endRadiusVar": 30,
+    "_rotatePerS": 0,
+    "_rotatePerSVar": 0,
+    "_N$preview": true
+  },
+  {
+    "__type__": "cc.Animation",
+    "_name": "",
+    "_objFlags": 0,
+    "node": {
+      "__id__": 1
+    },
+    "_enabled": true,
+    "_defaultClip": {
+      "__uuid__": "69065837-aa05-40f0-8b43-b75e3926451a"
+    },
+    "_clips": [
+      {
+        "__uuid__": "69065837-aa05-40f0-8b43-b75e3926451a"
+      }
+    ],
+    "playOnLoad": true
+  },
+  {
+    "__type__": "cc.PrefabInfo",
+    "root": {
+      "__id__": 1
+    },
+    "asset": {
+      "__uuid__": "c5875148-83e1-4e1f-a21d-7da5ff3b55a0"
+    },
+    "fileId": "80cc6tVwhZMV42j8Tm2BA7H",
+    "sync": false
+  }
+]
